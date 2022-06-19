@@ -586,7 +586,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
               </svg>
             </a>
             <a
-              href="https://nx.dev/tutorial/01-create-application?utm_source=nx-project"
+              href="https://nx.dev/angular-tutorial/01-create-application?utm_source=nx-project"
               target="_blank"
               rel="noreferrer"
               class="list-item-link"
